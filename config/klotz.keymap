@@ -156,7 +156,7 @@
 		compatible = "zmk,keymap";
 
 		default_layer {
-			label = "¯\_(ツ)_/¯";
+			label = "qwerty";
 			bindings = <
 			&kp Q		&kp W		&kp E		&kp R		&kp T			&kp Y		&kp U		&kp I		&hs RC(LALT) O		&hs RC(LA(LGUI)) P
 			&hl LGUI A	&hl LALT S	&hl LCTRL D	&hs LSHFT F	&hl RALT G		&hr RALT H	&hs RSHFT J	&hr RCTRL K	&hr LALT L	&hr LGUI SEMI
